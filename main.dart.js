@@ -39221,7 +39221,7 @@ A.a4o.prototype={
 $1(a){return this.a.c},
 $S:466}
 A.a4n.prototype={
-$2(a,b){var s,r=null,q=t.F,p=A.vH(A.a([A.ap3(new A.qj(A.aCS(r,r,new A.v2("onboarding.png",r,r)),B.CP,B.H2,r),3),B.nQ],q),B.dt,B.c0,B.bi),o=A.a([],q),n=b.gmN(b)
+$2(a,b){var s,r=null,q=t.F,p=A.vH(A.a([A.ap3(new A.qj(A.aCS(r,r,new A.v2("images/onboarding.png",r,r)),B.CP,B.H2,r),3),B.nQ],q),B.dt,B.c0,B.bi),o=A.a([],q),n=b.gmN(b)
 if(!n.gP(n))o.push(this.a.X8(b.gmN(b)))
 n=b.gmN(b)
 if(!n.gP(n)){n=this.a
